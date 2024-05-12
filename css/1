@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+	<meta charset="utf-8">
 <title>Планета танцев</title>
+</head>
 <style>
     body {
         margin: 0;
@@ -32,7 +34,7 @@
         <a href="C:/ВПКР_МИ-19/Котлярова/сайт/dva.html">Виды студий</a>
         <a href="C:/ВПКР_МИ-19/Котлярова/сайт/tri.html">Анкета</a>
     </nav>
-    <img src='E:/сайт/фотки/aa.jpg'>
+    <img src='E:/сайт/foto/aa.jpg'>
     <footer>
         <Font color="#ffffff"><p align="center">Контактная информация</p>
         <p align="center">Адрес: г.Сергиев-Посад прк. Красной армии 251</p>
